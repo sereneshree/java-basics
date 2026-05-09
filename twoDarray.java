@@ -1,6 +1,6 @@
 import java.util.*; //this is to import everything 
 public class twoDarray { //class name
-    public static void main(String a[]){ //
+    public static void main(Str a[]){ //
      
     int nums[][]=new int[3][4]; //one 2D array
       

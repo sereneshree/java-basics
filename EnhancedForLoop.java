@@ -1,5 +1,5 @@
 public class EnhancedForLoop { 
-    public static void main(String a[]){
+    public static void main(Str a[]){
 
         int nums[]=new int[4];
         nums[0]=1;

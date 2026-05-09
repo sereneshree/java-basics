@@ -1,7 +1,7 @@
 import java.util.*;
 public class JaggedArray{
     
-    public static void main(String a[]){
+    public static void main(Str a[]){
 
         int nums[][]=new int[3][]; //jagged(means columns can be diff for each row)
 

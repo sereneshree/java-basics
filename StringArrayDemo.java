@@ -1,12 +1,12 @@
 import java.util.*;
 class student{ // Blueprint class to group different data types (int and String) together
     int rollno;
-    String name;
+    Str name;
     int marks;
 }
 public class StringArrayDemo { 
 
-    public static void main(String a[]){
+    public static void main(Str a[]){
         // Initialize individual Student objects with specific data
         student s1=new student();
         s1.rollno =1;
